@@ -1,5 +1,8 @@
+.
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=40&center=true&vCenter=true&width=700&lines=Hi,+I+am+Er+Amit;Cyber+Security+Enthusiast;Ethical+Hacking+%7C+Web+Security;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=40&center=true&vCenter=true&width=700&lines=Hi,+I+am+Er+Amit;Cyber+Security+Enthusiast;Ethical+Hacking+%7C;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -24,14 +27,15 @@
 
 ---
 
-# 📊 GitHub Stats
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Er-akAmit&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-akAmit&theme=tokyonight" />
+  <a href="https://instagram.com/er_akamit"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
+
 
 # 🏆 Achievements
 
@@ -44,18 +48,17 @@
 # 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-akAmit&theme=react-dark" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
-
-# 🌐 Connect With Me
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://instagram.com/er_akamit"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Er-akAmit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-akAmit&theme=tokyonight" />
 </p>
 
 ---
 
-⭐ *"Security is not a product, it's a p
+⭐ ***Security is not a product,...***
