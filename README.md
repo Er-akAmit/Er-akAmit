@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi,+I'm+Amit+Kumar;Cyber+Security+Enthusiast;Ethical+Hacking+%7C+Web+Security;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi,+I+am+Er+Amit;Cyber+Security+Enthusiast;Ethical+Hacking+%7C+Web+Security;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -27,8 +27,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Er-akAmit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-akAmit&theme=tokyonight" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Er-akAmit&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 # 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-akAmit&theme=react-dark" />
 </p>
 
 ---
